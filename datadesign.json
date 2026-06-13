@@ -1,0 +1,81 @@
+{
+    "title": "تصميم شقة – 265 متر مربع",
+    "totalArea": "265 م²",
+    "scale": 0.4,
+    "units": "متر",
+    "rooms": [
+        {
+            "id": "living",
+            "name": "الصالة الرئيسية",
+            "area": "100 م²",
+            "x": 600,
+            "y": 50,
+            "width": 400,
+            "height": 250,
+            "entry": {
+                "side": "right",
+                "offset": 125
+            }
+        },
+        {
+            "id": "kitchen1",
+            "name": "المطبخ الرئيسي",
+            "area": "40 م²",
+            "x": 150,
+            "y": 50,
+            "width": 160,
+            "height": 100,
+            "color": "#e8f5e9"
+        },
+        {
+            "id": "kitchen2",
+            "name": "مطبخ إضافي",
+            "area": "40 م²",
+            "x": 320,
+            "y": 50,
+            "width": 160,
+            "height": 100
+        },
+        {
+            "id": "storage",
+            "name": "مخزن إضافي",
+            "area": "45 م²",
+            "x": 490,
+            "y": 50,
+            "width": 180,
+            "height": 100
+        },
+        {
+            "name": "غرفة ١",
+            "area": "50 م²",
+            "id": "room1",
+            "x": 450,
+            "y": 200,
+            "width": 200,
+            "height": 125
+        },
+        {
+            "name": "غرفة ٢",
+            "area": "50 م²",
+            "id": "room2",
+            "x": 200,
+            "y": 200,
+            "width": 200,
+            "height": 125
+        }
+    ],
+    "entrances": [
+        {
+            "label": "المدخل الرئيسي",
+            "x": 650,
+            "y": 30,
+            "direction": "down"
+        },
+        {
+            "label": "غرفة الخدمة",
+            "x": 50,
+            "y": 320,
+            "direction": "right"
+        }
+    ]
+}
